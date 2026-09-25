@@ -1,0 +1,11 @@
+# Study Planner - Requirements File
+# -------------------------------------------------------------
+# This project uses ONLY the Python Standard Library.
+# No third-party packages or external dependencies (e.g. pip packages)
+# are required to run this project.
+#
+# Minimum Requirement:
+# Python 3.6 or higher (tested with Python 3.8, 3.9, 3.10, 3.11, 3.12)
+#
+# Standard modules used:
+# - array (Python standard library)
